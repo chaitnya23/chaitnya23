@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chaitnya giri</h1>
+<h1 align="center">Hi 👋, I'm Chaitnya Giri</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitnya23&label=Profile%20views&color=0e75b6&style=flat" alt="chaitnya23" /> </p>
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chaitnya.giri2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ltBGhk5Cn9bJoCZEDKnz7xVf9_HHtgzc/view?usp=drive_link](https://drive.google.com/file/d/1ltBGhk5Cn9bJoCZEDKnz7xVf9_HHtgzc/view?usp=drive_link)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1ltBGhk5Cn9bJoCZEDKnz7xVf9_HHtgzc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
