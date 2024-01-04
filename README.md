@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chaitnya.giri2002@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1ltBGhk5Cn9bJoCZEDKnz7xVf9_HHtgzc/view?usp=drive_link)
+- 📄 Know about my experiences [resume link](https://shorturl.at/eF017))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
